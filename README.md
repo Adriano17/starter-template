@@ -1,2 +1,2 @@
 # starter-template
-progettazione di una pagina web
+Progettazione di una pagina web
